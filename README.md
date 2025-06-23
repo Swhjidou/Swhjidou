@@ -1,10 +1,3 @@
-Tu dois être connecté à ChatGPT pour utiliser **ChatGPT Canvas** (l'éditeur de texte collaboratif).
-
-En attendant, voici un exemple complet de ton `README.md`, adapté à ton style et contenu :
-
----
-
-````markdown
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
